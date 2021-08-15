@@ -15,6 +15,7 @@ seo:
   description:
   social_image:
   keywords:
+  twitter-card:
   hide-from-google: false
 ---
 ## Adventures in Bali

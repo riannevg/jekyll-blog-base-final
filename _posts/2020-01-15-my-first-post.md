@@ -14,6 +14,7 @@ seo:
   title:
   description:
   social_image:
+  twitter-card:
   keywords:
   hide-from-google: false
 ---
